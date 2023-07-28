@@ -5,3 +5,5 @@ Link to interactive dashboard: https://public.tableau.com/app/profile/harikrishn
 Information related to charts on my dashboard: Veteran = a user with at least 50 animes watched // Newbie = a user with less than 50 animes watched
 
 Link to dataset: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+
+Link to medium article: https://medium.com/@harisoni535/anime-data-analysis-and-visualisation-e2c09896a199
